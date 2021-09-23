@@ -22,8 +22,8 @@ export const NavigationDesktop = () => {
 
     return (
         <nav className="navbar_desktop">
-            <span className="navbar_logo_desktop"></span>
-            <ul className="navbar_list_deskop">
+            <span className="navbar_logo_desktop"><img src="http://ones.flatheme.net/assets/images/client-2.png"/></span> {/*Lägg in bild på min logga här*/}
+            <ul className="navbar_list_desktop">
                 <li>
             <button onClick = {() => history.push(RoutingPath.homeView,"Nu är du hemma!") } > Home</button>
             </li>
