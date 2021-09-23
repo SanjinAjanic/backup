@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/sanjinreactapp/static/css/main.0c76caf3.chunk.css",
-    "main.js": "/sanjinreactapp/static/js/main.90a7a556.chunk.js",
-    "main.js.map": "/sanjinreactapp/static/js/main.90a7a556.chunk.js.map",
-    "runtime-main.js": "/sanjinreactapp/static/js/runtime-main.73d91c3f.js",
-    "runtime-main.js.map": "/sanjinreactapp/static/js/runtime-main.73d91c3f.js.map",
-    "static/js/2.5096d9de.chunk.js": "/sanjinreactapp/static/js/2.5096d9de.chunk.js",
-    "static/js/2.5096d9de.chunk.js.map": "/sanjinreactapp/static/js/2.5096d9de.chunk.js.map",
-    "static/js/3.39bfa133.chunk.js": "/sanjinreactapp/static/js/3.39bfa133.chunk.js",
-    "static/js/3.39bfa133.chunk.js.map": "/sanjinreactapp/static/js/3.39bfa133.chunk.js.map",
+    "main.css": "/sanjinreactapp/static/css/main.311d83b9.chunk.css",
+    "main.js": "/sanjinreactapp/static/js/main.668778ab.chunk.js",
+    "main.js.map": "/sanjinreactapp/static/js/main.668778ab.chunk.js.map",
+    "runtime-main.js": "/sanjinreactapp/static/js/runtime-main.1810c752.js",
+    "runtime-main.js.map": "/sanjinreactapp/static/js/runtime-main.1810c752.js.map",
+    "static/js/2.546f229c.chunk.js": "/sanjinreactapp/static/js/2.546f229c.chunk.js",
+    "static/js/2.546f229c.chunk.js.map": "/sanjinreactapp/static/js/2.546f229c.chunk.js.map",
+    "static/js/3.399a5b6a.chunk.js": "/sanjinreactapp/static/js/3.399a5b6a.chunk.js",
+    "static/js/3.399a5b6a.chunk.js.map": "/sanjinreactapp/static/js/3.399a5b6a.chunk.js.map",
     "index.html": "/sanjinreactapp/index.html",
-    "static/css/main.0c76caf3.chunk.css.map": "/sanjinreactapp/static/css/main.0c76caf3.chunk.css.map",
-    "static/js/2.5096d9de.chunk.js.LICENSE.txt": "/sanjinreactapp/static/js/2.5096d9de.chunk.js.LICENSE.txt"
+    "static/css/main.311d83b9.chunk.css.map": "/sanjinreactapp/static/css/main.311d83b9.chunk.css.map",
+    "static/js/2.546f229c.chunk.js.LICENSE.txt": "/sanjinreactapp/static/js/2.546f229c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.73d91c3f.js",
-    "static/js/2.5096d9de.chunk.js",
-    "static/css/main.0c76caf3.chunk.css",
-    "static/js/main.90a7a556.chunk.js"
+    "static/js/runtime-main.1810c752.js",
+    "static/js/2.546f229c.chunk.js",
+    "static/css/main.311d83b9.chunk.css",
+    "static/js/main.668778ab.chunk.js"
   ]
 }

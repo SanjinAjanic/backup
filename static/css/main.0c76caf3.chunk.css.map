@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack://src/components/greetuser/GreetUser.css"],"names":[],"mappings":"AAAA,WACI,sBAAuB,CACvB,WACJ,CAEA,OACI,SACJ","file":"main.0c76caf3.chunk.css","sourcesContent":[".greetuser{\n    background-color: brown;\n    padding: 2em;\n}\n\n.error{\n    color:red;\n}"]}
